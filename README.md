@@ -1,4 +1,4 @@
-Simple docke file used to check genode build on debian 13 trixie
+Simple docker file used to check genode build on debian 13 trixie
 
 Create the docker image using:
 ```
