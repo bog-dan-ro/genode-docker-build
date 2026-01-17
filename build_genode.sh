@@ -1,7 +1,7 @@
 #/bin/bash
 
 git clone https://github.com/genodelabs/genode.git
-git clone https://github.com/ssumpf/genode-riscv.git genode/repos/riscv
+git clone https://github.com/genodelabs/genode-riscv.git genode/repos/riscv
 
 pushd genode
 ./tool/create_builddir riscv
